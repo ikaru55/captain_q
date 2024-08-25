@@ -2,7 +2,7 @@
 # DocumentGPT: Confluence Documents Search Bot
 
 <p align="center">
-<a href=""><img src="docs/resources/MetaGPT-new-log.png" alt="MetaGPT logo: Enable GPT to work in software company, collaborating to tackle more complex tasks." width="150px"></a>
+<a href=""><img src="docs/resources/DocumentGPT.png" alt="DocumentGPT logo: Enable GPT to work in software company, In Company Confluence Space, GPT Collect all informantion of Space and Tell Company Informantion to employee with Slack Chat" width="150px"></a>
 </p>
 
 <p align="center">
