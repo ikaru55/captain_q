@@ -14,6 +14,9 @@ import threading
 import time
 from datetime import datetime, timedelta
 
+############################# Private Section #################################
+# You have to Fill below Area
+
 openai.api_type = ""
 openai.api_version = ""
 openai.api_base = ""
@@ -33,6 +36,7 @@ confluence = Confluence(
 ROOT_PAGE_ID = ""
 # Root Page refers the page which is the highest node page in confluence space (main home page).
 
+##############################################################################################
 
 def GPT4_request_message(messages):
     """
