@@ -1,0 +1,8 @@
+    The Following Text is Summary of Company Documents.
+    This Text will be used to search Company Documents for Company Documents User.
+    Each document may have subdocuments, hierachy is indicated with dot in title.
+    Format of Page information:
+        <main-doc_title>.<sub-doc_title>.<sub-sub-doc_title>...|Document_ID
+        - <Summary of Document>
+
+    Documents DATA:
