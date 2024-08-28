@@ -13,3 +13,14 @@
 🚀 Aug. 25, 2024: [v1.0]
 
 ## Get Started
+1. You have to get below API's key and password & Fill (main.py, Reset.py, update.py)'s API section.
+	a. Confluence
+	b. Slack
+	c. GPT (code is set for Azure GPT)
+2. You can make your raw_data for GPT Chat Bot through raw_data file's code
+	a. Make raw_filter.txt(which includes summarization of all page in confluence) through starting reset.py
+	b. update.py is not necessary (it is for updating changes in page not for starting)
+3. After making base data in raw_data, you have to create your own bot in slack.
+	a. the way for bot can be found in internet.
+	b. after create bot, main.py will be main code for bot (I used docker for operating this code in background)
+4. you can Chat with your bot successfully!! 
